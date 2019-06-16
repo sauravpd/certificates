@@ -1,3 +1,3 @@
 # certificates
 
-This repo contains Linkeddin certificates.
+This repo contains LinkedIn Learning and other certificates.
